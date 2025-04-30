@@ -1,5 +1,5 @@
 import React, { useRef, useState, useEffect } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const App = () => {
   const [imageSrc, setImageSrc] = useState(null);
